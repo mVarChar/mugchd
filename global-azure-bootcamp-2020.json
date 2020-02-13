@@ -1,0 +1,47 @@
+{
+  "Id": 1,
+  "Permalink": "global-azure-bootcamp-2020",
+  "Title": "",
+  "SubTitle": "",
+  "About": "",
+  "Logo": {
+    "Small": "",
+    "Medium": "",
+    "Large": ""
+  },
+  "Sponsers": [],
+  "Organizers": [],
+  "Sessions": [
+    {
+      "Title": "",
+      "StartTime": "",
+      "EndTime": "",
+      "Description": "",
+      "Speaker": ""
+    }
+  ],
+  "Speakers": [],
+  "StartDate": "",
+  "EndDate": "",
+  "RegistrationLink": "",
+  "MetaTags": {
+    "Author": "",
+    "Description": "",
+    "Keywords": ""
+  },
+  "Location": {
+    "Title": "",
+    "Address": "",
+    "City": "",
+    "State": ""
+  },
+  "SocialPreviewImage": "",
+  "HashTag": "",
+  "GiveAways": [
+    {
+      "Id": "",
+      "Image": "",
+      "Name": ""
+    }
+  ]
+}
