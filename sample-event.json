@@ -1,0 +1,78 @@
+{
+  "Id": "",
+  "Permalink": "",
+  "Title": "",
+  "SubTitle": "",
+  "About": "",
+  "BannerImage": "",
+  "RegisterLink": "",
+  "Logo": {
+    "Small": "",
+    "Medium": "",
+    "Large": ""
+  },
+  "Sponsers": [],
+  "Organizers": [],
+  "Sessions": [
+    {
+      "Title": "",
+      "Description": "",
+      "StartTime": "",
+      "EndTime": "",
+      "Time": "",
+      "Speaker": "",
+      "IsLunchOrRegistration": false
+    }
+  ],
+  "Speakers": [],
+  "StartDate": "",
+  "EndDate": "",
+  "RegistrationLink": "",
+  "MetaTags": {
+    "Author": "",
+    "Description": "",
+    "Keywords": "",
+    "ShowOGMetaTags": true,
+    "OG": {
+      "Url": "",
+      "Type": "",
+      "Title": "",
+      "Description": "",
+      "Locale": "",
+      "Site_Name": "",
+      "UpdatedTime": "",
+      "Image": {
+        "Url": "",
+        "Secure_Url": "",
+        "Width": "",
+        "Height": ""
+      }
+    },
+    "Twitter": {
+      "Card": "",
+      "Description": "",
+      "Title": "",
+      "Image": ""
+    },
+    "Article": {
+      "Section": "",
+      "PublishedTime": "",
+      "ModifiedTime": ""
+    }
+  },
+  "Location": {
+    "Title": "",
+    "Address": "",
+    "City": "",
+    "State": ""
+  },
+  "SocialPreviewImage": "",
+  "HashTag": "",
+  "GiveAways": [
+    {
+      "Id": "",
+      "Image": "",
+      "Name": ""
+    }
+  ]
+}
